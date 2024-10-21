@@ -1,6 +1,5 @@
 # 🍽️ Projeto em Desenvolvimento (Gerenciador de Comandas)
 
-##🍽️ Gerenciador de Comandas
 O Gerenciador de Comandas é uma solução digital para restaurantes, pubs, padarias e outros estabelecimentos que desejam agilizar o atendimento. O sistema permite que os clientes façam pedidos escaneando um QR code na mesa, visualizem o menu, escolham pratos e enviem pedidos diretamente para o garçom e a cozinha. O pagamento pode ser realizado no aplicativo ou no local, garantindo uma experiência mais prática e eficiente para o cliente e o estabelecimento.
 
 ## 📋 Caso de Uso: Pedido de Alimentos via QR Code
