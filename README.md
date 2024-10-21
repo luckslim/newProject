@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Projeto em Desenvolvimento(Gerenciador de Comandas)
 
 Descrição breve do projeto e seu propósito.
 
