@@ -1,6 +1,17 @@
 # Projeto em Desenvolvimento(Gerenciador de Comandas)
+Caso de Uso-
+1-O cliente chega ao estabelecimento e localiza um Qrcode na mesa. 
+2- o cliente usa o scanner para entrar no sistema. 
+3- o sistema exibe o restaurante em que o cliente está.
+4- Em Seguida exibe os pratos que o restaurante disponibilizou no site.
+5- o cliente seleciona o prato e uma notificação é enviada para o garçon responsavel pela mesa.
+6- o garçon pode conferir o pedido com o cliente e então o pedido é enviado para a cozinha.
+7- o valor do pedido será armazenado no app e o pagamento pode ser feito no app ou na saida do estabeleciomento.
+8- apos o pagamento o pedido é fechado e cadastrado como concluido no banco de dados.
+9- o cliente e o estabelecimento podem conferir a qualquer hora sobre o status do pedido.
+10- Uma aplicação pratica para o uso de um restaurante, pub, padaria, etc...
 
-Descrição breve do projeto e seu propósito.
+#O software será uma ferramenta para estabelecimentos com alta ou baixa demanda de pedidos.
 
 ## Requisitos Funcionais
 
@@ -24,12 +35,12 @@ Descrição breve do projeto e seu propósito.
 
 ## Como Executar o Projeto
 
-Instruções para instalar e executar o projeto localmente.
+...
 
 ## Contribuições
 
-Informações sobre como contribuir para o projeto.
+...
 
 ## Licença
 
-Detalhes da licença do projeto.
+...
